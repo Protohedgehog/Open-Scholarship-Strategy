@@ -107,12 +107,14 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 1. Promote and compensate time and effort spent on training and advocacy for the various aspects of Open Scholarship, including Open Source, Open Access, and Open Education.
 
 1. Engage with research communities to develop and advertise quantifiable incentives for sharing preprints, open data, reproducible analyses, and OA in hiring, promotion, and tenure decisions. Define new ways of describing these wider contributions to scientific communities.
+	1. Explore the Dutch paradigm of [researchers' portfolios](https://openworking.wordpress.com/2018/06/24/changing-the-academic-reward-system-the-umc-utrecht-perspective/).
 
 **National Level (or higher)**
 
 1. Create new or support/contact existing international library consortia/collaborations (e.g., the International Coalition of Library Consortia (NOTE:  International Coalition of Library Consortia. )) to co-operate on infrastructure developments (e.g., [LIBER](http://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), [SPARC](https://sparcopen.org/)).
 
-    1. Consortia like Projekt DEAL could provide examples of how to take the first step towards this at a national level. Support from SPARC for any such developments would also be useful.
+    1. Consortia like Projekt DEAL could provide examples of how to take the first step towards this at a national level. Support from SPARC for any such developments would also be useful. 
+    2. Particularly for the European area and with a focus on the long tail of science, [OpenAIRE](https://www.openaire.eu/) could provide interoperability resolutions to institutional repositories and enhance their outputs visibility.
 
 1. Build on faculty and funder support for OA and related quality assurance initiatives (e.g., peer review) that are decoupled from journals. Agree on a governance structure for a world-wide scholarly infrastructure. (e.g., [W3C](https://www.w3.org/)).
 
@@ -130,9 +132,9 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Encourage research funders to diversify the portfolio of what is considered as a research output for assessment purposes. 
 
-    1. Wider adoption of preprint and OA policies similar to those at the NIH and Wellcome Trust.
+    1. Wider adoption of preprint and OA policies similar to those at the NIH, the Wellcome Trust and the European Commission.
 
-1. A reduction of article-processing charges (APCs) in hybrid titles to match the market average for OA-only journals.
+1. A reduction of article-processing charges (APCs) in hybrid titles to match the market average for OA-only journals. (NOTE that with the new funding stream of [HorizonEurope](https://ec.europa.eu/info/designing-next-research-and-innovation-framework-programme/what-shapes-next-framework-programme_en), publications to hybrid journals are not eligible).
 
     1. The scholarly publishing market might require a detailed government-level investigation in order to stabilise this.
 
@@ -153,6 +155,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 1. To invite universities, research institutions, funders, libraries, and publishers to collaborate on a transition to open practices for the benefit of scholarship and society at large. (NOTE:  Open Access policies and Science Europe: State of play.)
 
 1. Create showcases / highlights / good practices of Open Practices on national open scholarship / open science website together with relevant information and resources.
+	1. OpenAIRE [National Open Access Desks (NOADs)](https://www.openaire.eu/contact-noads) already working on that and could provide input and facilitate communication between all stakeholders towards establishing national guides of sorts.
 
 ## 2.2 Mid-term strategy (3 - 5 years)
 
@@ -169,6 +172,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 1. Create a comprehensive set of mechanisms that allow fully open research processes to public participation (no more piggybacking, no more "human processing units", etc.).
 
 1. Develop Open Scholarship workflows for all group members to take advantage of increasingly well-developed open scholarly infrastructure and tools.
+	1. The [European Open Science Cloud (EOSC)](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud) aims at creating a safe environment with federated services and tools for Open Science.
 
 1. Continue to develop the aspects of the Short-term strategy (Section 2.1).
 
@@ -190,7 +194,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Formulation of recommended career metrics that incentivize open data publication, open source software release, and research support.
 
-1. For any remaining hybrid journals that attain a higher proportion of open access over subscription articles, encourage them to ‘flip’ them to pure open access with an APC that reflects the running costs of the journal.
+1. For any remaining hybrid journals that attain a higher proportion of open access over subscription articles, encourage them to ‘flip’ to pure open access with an APC that reflects the running costs of the journal.
 
     1. For remaining hybrid journals that have not attained this level, refuse to support publication of OA articles in those venues.
 
@@ -202,7 +206,9 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Support the training of junior researchers in the usage of newly formed scholarly infrastructure tools and services.
 
-1. Teach students about open lab notebooks, version control, continuous analysis, and other aspects of Open Scholarship processes in introductory research courses.
+1. Teach students and early career researchers about open lab notebooks, version control, continuous analysis, and other aspects of Open Scholarship processes in introductory research courses.
+	1. [The Carpentries](https://carpentries.org/) could support training of early career researchers on foundational coding and data science skills.
+	1. The [RDA Early Career and Engagement Interest Group](https://www.rd-alliance.org/groups/early-career-and-engagement-ig) could also accommodate students and junior researchers needs on Open Science matters through its Mentorship Programme and other activities.
 
 1. Develop training material (OER) for further Open Scholarship development.
 
@@ -218,7 +224,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Establish a permanent fund to be used towards open source software development, APCs, preprint servers, and other costs related to Open Scholarship.
 
-1. Incentivize and mandate all research outputs to be published in Open Access journals or platforms.
+1. Incentivize and mandate all research outputs to be published in Open Access, Green (repositories) or Gold (journals or other digital/electronic platforms).
 
 1. Incentivize junior scholars to practice openness in their research.
 
